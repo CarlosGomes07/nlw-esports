@@ -16,4 +16,4 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## 💛 Contato
 
-maykbrito@gmail.com
+carlosgomes1999@hotmail.com
